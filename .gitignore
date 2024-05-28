@@ -1,2 +1,3 @@
-data/
+MNIST/
 .python-version
+lightning_logs/
